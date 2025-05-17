@@ -22,3 +22,26 @@ This tool offers a clean, easy-to-use layout to make financial insights accessib
 
 ## 📂 Project Structure
 
+## 🚀 How to Use
+
+1. Clone or download the repository.
+2. Open the dashboard file (`.xlsx` or `.pbix`) using the appropriate software.
+3. Use filters or slicers (if available) to explore insights for different years.
+4. Review visualizations and metrics for performance evaluation.
+
+## 📌 Use Cases
+
+- Annual financial review meetings  
+- Investor presentations  
+- Strategic planning sessions  
+- Data storytelling for stakeholders  
+
+## 🤝 Contribution
+
+Contributions are welcome! Feel free to fork the repo and submit pull requests to improve visualizations or add new features.
+
+## 📧 Contact
+
+For questions or feedback, reach out via [atharvatiwari375@gmail.com].
+
+---
